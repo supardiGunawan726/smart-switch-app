@@ -1,14 +1,15 @@
 {
   "name": "smart-switch-app",
   "slug": "smart-switch-app",
-  "expo": {
-    "extra": {
-      "eas": {
-        "projectId": "81709b46-2fe4-48cc-a828-1df4beead898"
-      }
-    },
-    "android": {
-      "package": "com.pardi.smartswitchapp"
+  "extra": {
+    "eas": {
+      "projectId": "81709b46-2fe4-48cc-a828-1df4beead898"
     }
+  },
+  "android": {
+    "package": "com.pardi.smartswitchapp"
+  },
+  "splash": {
+    "backgroundColor": "#25292e"
   }
 }
