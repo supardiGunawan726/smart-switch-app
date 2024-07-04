@@ -11,5 +11,8 @@
   },
   "splash": {
     "backgroundColor": "#25292e"
+  },
+  "ios": {
+    "bundleIdentifier": "com.pardi.smartswitchapp"
   }
 }
